@@ -1,3 +1,4 @@
+[![Stories in Ready](http://badge.waffle.io/forgingdestiny/django-admin-bootstrapped.png)](http://waffle.io/forgingdestiny/django-admin-bootstrapped)  
 django-admin-bootstrapped
 =========================
 
